@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning architecture structures for big express backends
 - 📫 How to reach me: sebastian@peretch.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peretch&show_icons=true&theme=vue)](https://github.com/peretch/peretch)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peretch&count_private=true&show_icons=true&theme=dark)](https://github.com/peretch/peretch)
