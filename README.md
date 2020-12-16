@@ -6,6 +6,7 @@
 - 🔭  **I’m currently working on** [_Nowports_](https://nowports.com)
 - 🌱  **I’m currently learning** _testing with mocha and chai_
 - 📫  **How to reach me:** sebastian@peretch.com
+- 🤪  **Random** In 2014 I created [Space Runner](https://play.google.com/store/apps/details?id=com.SebastianPerezEtchandy.games.SpaceRunner&hl=es_UY) a game with Unity for android devices
 
 ### Main technologies
 
