@@ -9,11 +9,16 @@
 
 ### Main technologies
 
+[![Node.JS](https://img.shields.io/static/v1?label=&message=Node.js&logo=node.js&darkgreen=darkblue&labelColor=white&color=darkgreen)](https://mongodb.com/)
 [![React](https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=blue&labelColor=white&color=blue)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&logo=Next.js&logoColor=black&labelColor=white&color=black)](https://nextjs.org/)
 [![MySql](https://img.shields.io/static/v1?label=&message=MySql&logo=mysql&logoColor=darkblue&labelColor=white&color=darkblue)](https://mysql.com/)
 [![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&logo=laravel&logoColor=orange&labelColor=white&color=orange)](https://laravel.com)
-[![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&logo=mongodb&darkgreen=darkblue&labelColor=white&color=darkgreen)](https://mongodb.com/)
+[![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&logo=mongodb&logoColor=green&labelColor=white&color=green)](https://mongodb.com/)
+[![StoryBook](https://img.shields.io/static/v1?label=&message=StoryBook&logo=storybook&iconColor=pink&labelColor=white&color=ff69b4)](https://storybook.js.org/)
+[![LinuxServers](https://img.shields.io/static/v1?label=&message=DebianServers&logo=debian&logoColor=d82150&labelColor=white&color=d82150)](https://debian.org/)
+
+
 
 ### Activity
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peretch&count_private=true&show_icons=true&theme=dark)](https://laravel.com)
