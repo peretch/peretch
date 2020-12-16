@@ -3,9 +3,9 @@
 
 ### Hi there 👋
 
-- 🔭 **I’m currently working on** [_Nowports_](https://nowports.com)
-- 🌱 **I’m currently learning** _testing with mocha and chai_
-- 📫 **How to reach me:** sebastian@peretch.com
+- 🔭  **I’m currently working on** [_Nowports_](https://nowports.com)
+- 🌱  **I’m currently learning** _testing with mocha and chai_
+- 📫  **How to reach me:** sebastian@peretch.com
 
 ### Main technologies
 
