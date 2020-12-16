@@ -7,4 +7,9 @@
 - 🌱 I’m currently learning architecture structures for big express backends
 - 📫 How to reach me: sebastian@peretch.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peretch&count_private=true&show_icons=true&theme=dark)](https://github.com/peretch/peretch)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peretch&count_private=true&show_icons=true&theme=dark)](https://laravel.com)
+
+### Main technologies
+
+[![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&logo=laravel&logoColor=orange&labelColor=white&color=orange)](https://github.com/peretch/peretch)
+[![Laravel](https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=blue&labelColor=white&color=blue)](https://reactjs.org/)
