@@ -16,10 +16,9 @@
 [![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&logo=laravel&logoColor=orange&labelColor=white&color=orange)](https://laravel.com)
 [![MySql](https://img.shields.io/static/v1?label=&message=MySql&logo=mysql&logoColor=darkblue&labelColor=white&color=darkblue)](https://mysql.com/)
 [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&logo=mongodb&logoColor=green&labelColor=white&color=green)](https://mongodb.com/)
+[![Postgres](https://img.shields.io/static/v1?label=&message=Postgres&logo=PostgreSQL&logoColor=336791&labelColor=white&color=336791)](https://www.postgresql.org/)
 [![StoryBook](https://img.shields.io/static/v1?label=&message=StoryBook&logo=storybook&iconColor=pink&labelColor=white&color=ff69b4)](https://storybook.js.org/)
 [![LinuxServers](https://img.shields.io/static/v1?label=&message=DebianServers&logo=debian&logoColor=d82150&labelColor=white&color=d82150)](https://debian.org/)
-
-
 
 ### Activity
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peretch&count_private=true&show_icons=true&theme=dark)](https://laravel.com)
