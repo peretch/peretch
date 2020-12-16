@@ -7,9 +7,13 @@
 - 🌱 I’m currently learning architecture structures for big express backends
 - 📫 How to reach me: sebastian@peretch.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peretch&count_private=true&show_icons=true&theme=dark)](https://laravel.com)
-
 ### Main technologies
 
-[![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&logo=laravel&logoColor=orange&labelColor=white&color=orange)](https://github.com/peretch/peretch)
-[![Laravel](https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=blue&labelColor=white&color=blue)](https://reactjs.org/)
+[![React](https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=blue&labelColor=white&color=blue)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&logo=Next.js&logoColor=black&labelColor=white&color=black)](https://nextjs.org/)
+[![MySql](https://img.shields.io/static/v1?label=&message=MySql&logo=mysql&logoColor=darkblue&labelColor=white&color=darkblue)](https://mysql.com/)
+[![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&logo=laravel&logoColor=orange&labelColor=white&color=orange)](https://laravel.com)
+[![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&logo=mongodb&darkgreen=darkblue&labelColor=white&color=darkgreen)](https://mongodb.com/)
+
+### Activity
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peretch&count_private=true&show_icons=true&theme=dark)](https://laravel.com)
