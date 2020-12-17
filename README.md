@@ -8,7 +8,7 @@
   - [![Mocha](https://img.shields.io/static/v1?label=&message=Mocha&logo=mocha&logoColor=8d6748&labelColor=white&color=8d6748)](https://mochajs.org/)
   - [![Ant Design](https://img.shields.io/static/v1?label=&message=Ant%20Design&logo=Ant%20Design&logoColor=0170FE&labelColor=white&color=0170FE)](https://ant.design/)
 - 📫  **How to reach me:** sebastian@peretch.com
-- 🤪  **Random** In 2014 I created [Space Runner](https://play.google.com/store/apps/details?id=com.SebastianPerezEtchandy.games.SpaceRunner&hl=es_UY) a game with Unity for android devices
+- 🤪  **Random** In 2014 I created [Space Runner](https://play.google.com/store/apps/details?id=com.SebastianPerezEtchandy.games.SpaceRunner&hl=es_UY) a game made with Unity for android devices
 
 ### Main technologies
 
