@@ -1,10 +1,9 @@
-[![Header](https://scontent.fmvd2-1.fna.fbcdn.net/v/t1.0-9/39913645_234351214090276_8280407079345192960_o.png?_nc_cat=104&ccb=2&_nc_sid=e3f864&_nc_eui2=AeH8aoNksTJ1LIQlmyCMqVnsOY15XIhqfuU5jXlciGp-5Xcaj7E-CjBtP3hcbpY8Odc&_nc_ohc=5kyns8nhlBUAX8jLjCD&_nc_ht=scontent.fmvd2-1.fna&oh=9893e89cf46d4bffb82989e4dc3aba19&oe=5FFF1C69 "Header")](https://peretch.com/)
-
-
 ### Hi there 👋
 
 - 🔭  **I’m currently working on** [_Nowports_](https://nowports.com)
-- 🌱  **I’m currently learning** 
+- 🌱  **I’m currently learning or reading about** 
+  - 📗 _Designing data-intensive applications (By Martin Kleppmann)_
+  - 📙 _Building Microservices: Designing Fine-Grained Systems (By Sam Newman)_
 - 📫  **How to reach me:** sebastian@peretch.com
 - 🤪  **Random** In 2014 I created [Space Runner](https://play.google.com/store/apps/details?id=com.SebastianPerezEtchandy.games.SpaceRunner&hl=es_UY) a game made with Unity for android devices
 
