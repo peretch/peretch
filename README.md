@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭  **I’m currently working on** [_Nowports_](https://nowports.com)
-- 🌱  **I’m currently learning or reading about** 
-  - 📗  -> _Designing data-intensive applications (By Martin Kleppmann)_
-  - 📙  -> _Building Microservices: Designing Fine-Grained Systems (By Sam Newman)_
+- 🌱  **I’m currently learning** 
+  - 📙  -> [Designing data-intensive applications (By Martin Kleppmann)](https://www.amazon.com/-/es/Martin-Kleppmann/dp/1449373321)
+  - 📗  -> [Building Microservices: Designing Fine-Grained Systems (By Sam Newman)](https://www.amazon.com/-/es/Sam-Newman/dp/1491950358)
   - ⏯️  -> [Udemy - Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 - 📫  **How to reach me:** sebastian@peretch.com
 - 🤪  **Random** In 2014 I created [Space Runner](https://play.google.com/store/apps/details?id=com.SebastianPerezEtchandy.games.SpaceRunner&hl=es_UY) a game made with Unity for android devices
