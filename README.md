@@ -12,11 +12,11 @@
 ### Main technologies 🔬
 #### Development
 [![Node.JS](https://img.shields.io/static/v1?label=&message=Node.js&logo=node.js&darkgreen=darkblue&labelColor=white&color=darkgreen)](https://mongodb.com/)
-[![React](https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=blue&labelColor=white&color=blue)](https://reactjs.org/)
 [![ExpressJS](https://img.shields.io/static/v1?label=&message=ExpressJS&logo=express&logoColor=black&labelColor=white&color=black)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&logo=Next.js&logoColor=black&labelColor=white&color=black)](https://nextjs.org/)
-[![Electron](https://img.shields.io/static/v1?label=&message=Electron&logo=electron&logoColor=57818c&labelColor=white&color=57818c)](https://www.electronjs.org/)
+[![React](https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=blue&labelColor=white&color=blue)](https://reactjs.org/)
 [![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&logo=laravel&logoColor=orange&labelColor=white&color=orange)](https://laravel.com)
+[![Electron](https://img.shields.io/static/v1?label=&message=Electron&logo=electron&logoColor=57818c&labelColor=white&color=57818c)](https://www.electronjs.org/)
+[![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&logo=Next.js&logoColor=black&labelColor=white&color=black)](https://nextjs.org/)
 [![StoryBook](https://img.shields.io/static/v1?label=&message=StoryBook&logo=storybook&iconColor=pink&labelColor=white&color=ff69b4)](https://storybook.js.org/)
 
 #### Testing
