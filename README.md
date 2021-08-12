@@ -35,6 +35,7 @@
 ### Articles 📖
 - [Multi-Tenant implementation with Laravel 8](https://blog.peretch.com/multi-tenant-implementation-with-laravel-8-5d4471ed4c40)
 - [ExpressJS and Sequelize application tested with mocha, chai, supertest, migrations and seeds](https://medium.com/nowports-tech/expressjs-and-sequelize-application-tested-with-mocha-chai-supertest-migrations-and-seeds-d306a8ee4add)
+- [An Introduction to Microservices](https://medium.com/nowports-tech/an-introduction-to-microservices-3e7fffdc5578)
 
 
 ### Stats 🏃
