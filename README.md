@@ -12,7 +12,7 @@
 ### Main technologies 🔬
 #### Development
 [![Node.JS](https://img.shields.io/static/v1?label=&message=Node.js&logo=node.js&darkgreen=darkblue&labelColor=white&color=darkgreen)](https://mongodb.com/)
-[![ExpressJS](https://img.shields.io/static/v1?label=&message=ExpressJS&logo=express&logoColor=black&labelColor=white&color=black)](https://reactjs.org/)
+[![ExpressJS](https://img.shields.io/static/v1?label=&message=ExpressJS&logo=express&logoColor=black&labelColor=white&color=black)](https://expressjs.com/)
 [![React](https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=blue&labelColor=white&color=blue)](https://reactjs.org/)
 [![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&logo=laravel&logoColor=orange&labelColor=white&color=orange)](https://laravel.com)
 [![Electron](https://img.shields.io/static/v1?label=&message=Electron&logo=electron&logoColor=57818c&labelColor=white&color=57818c)](https://www.electronjs.org/)
@@ -20,8 +20,8 @@
 [![StoryBook](https://img.shields.io/static/v1?label=&message=StoryBook&logo=storybook&iconColor=pink&labelColor=white&color=ff69b4)](https://storybook.js.org/)
 
 #### Testing
-[![Jest](https://img.shields.io/static/v1?label=&message=Jest&logo=jest&logoColor=C21325&labelColor=white&color=C21325)](https://reactjs.org/)
-[![React testing Library](https://img.shields.io/static/v1?label=&message=ReactTestingLibrary&logo=testingLibrary&logoColor=E33332&labelColor=white&color=E33332)](https://reactjs.org/)
+[![Jest](https://img.shields.io/static/v1?label=&message=Jest&logo=jest&logoColor=C21325&labelColor=white&color=C21325)](https://jestjs.io/)
+[![React testing Library](https://img.shields.io/static/v1?label=&message=ReactTestingLibrary&logo=testingLibrary&logoColor=E33332&labelColor=white&color=E33332)](https://testing-library.com/)
 
 #### Databases
 [![MySql](https://img.shields.io/static/v1?label=&message=MySql&logo=mysql&logoColor=darkblue&labelColor=white&color=darkblue)](https://mysql.com/)
