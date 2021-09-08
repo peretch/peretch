@@ -42,3 +42,5 @@
 <a href="https://stackoverflow.com/users/9301236/sebasti%c3%a1n-p%c3%a9rez"><img src="https://stackoverflow.com/users/flair/9301236.png?theme=clean" width="208" height="58" alt="profile for Sebasti&#225;n P&#233;rez at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sebasti&#225;n P&#233;rez at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peretch&count_private=true&show_icons=true&theme=dark)](https://laravel.com)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=peretch&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
