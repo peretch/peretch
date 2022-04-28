@@ -11,7 +11,8 @@
 
 ### Main technologies 🔬
 #### Development
-[![Node.JS](https://img.shields.io/static/v1?label=&message=Node.js&logo=node.js&darkgreen=darkblue&labelColor=white&color=darkgreen)](https://mongodb.com/)
+[![Node.JS](https://img.shields.io/static/v1?label=&message=Node.js&logo=node.js&darkgreen=darkblue&labelColor=white&color=darkgreen)](https://nodejs.org/es/)
+[![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&logo=TypeScript&darkgreen=darkblue&labelColor=white&color=3178C6)](https://www.typescriptlang.org/)
 [![ExpressJS](https://img.shields.io/static/v1?label=&message=ExpressJS&logo=express&logoColor=black&labelColor=white&color=black)](https://expressjs.com/)
 [![React](https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=blue&labelColor=white&color=blue)](https://reactjs.org/)
 [![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&logo=laravel&logoColor=orange&labelColor=white&color=orange)](https://laravel.com)
