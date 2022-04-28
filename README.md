@@ -23,6 +23,7 @@
 #### Testing
 [![Jest](https://img.shields.io/static/v1?label=&message=Jest&logo=jest&logoColor=C21325&labelColor=white&color=C21325)](https://jestjs.io/)
 [![React testing Library](https://img.shields.io/static/v1?label=&message=ReactTestingLibrary&logo=testingLibrary&logoColor=E33332&labelColor=white&color=E33332)](https://testing-library.com/)
+[![Supertest](https://img.shields.io/static/v1?label=&message=Supertest&logo=npm&logoColor=C21325&labelColor=white&color=CB3837)](https://www.npmjs.com/package/supertest)
 
 #### Databases
 [![MySql](https://img.shields.io/static/v1?label=&message=MySql&logo=mysql&logoColor=darkblue&labelColor=white&color=darkblue)](https://mysql.com/)
