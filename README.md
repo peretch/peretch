@@ -6,6 +6,7 @@
   - 📙  -> [Designing data-intensive applications (By Martin Kleppmann)](https://www.amazon.com/-/es/Martin-Kleppmann/dp/1449373321)
   - 📗  -> [Building Microservices: Designing Fine-Grained Systems (By Sam Newman)](https://www.amazon.com/-/es/Sam-Newman/dp/1491950358)
   - ⏯️  -> [Udemy - Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
+  - ⏯️  -> [Udemy - NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide)
 - 📫  **How to reach me:** sebastian@peretch.com
 - 🤪  **Random** In 2014 I created [Space Runner](https://play.google.com/store/apps/details?id=com.SebastianPerezEtchandy.games.SpaceRunner&hl=es_UY) a game made with Unity for android devices
 
@@ -14,6 +15,8 @@
 [![Node.JS](https://img.shields.io/static/v1?label=&message=Node.js&logo=node.js&darkgreen=darkblue&labelColor=white&color=darkgreen)](https://nodejs.org/es/)
 [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&logo=TypeScript&darkgreen=darkblue&labelColor=white&color=3178C6)](https://www.typescriptlang.org/)
 [![ExpressJS](https://img.shields.io/static/v1?label=&message=ExpressJS&logo=express&logoColor=black&labelColor=white&color=black)](https://expressjs.com/)
+[![NestJS](https://img.shields.io/static/v1?label=&message=NestJS&logo=NestJS&logoColor=E0234E&labelColor=white&color=E0234E)](https://NestJS.com/)
+[![GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&logo=GraphQL&logoColor=E10098&labelColor=white&color=E10098)](https://GraphQL.com/)
 [![React](https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=blue&labelColor=white&color=blue)](https://reactjs.org/)
 [![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&logo=laravel&logoColor=orange&labelColor=white&color=orange)](https://laravel.com)
 [![Electron](https://img.shields.io/static/v1?label=&message=Electron&logo=electron&logoColor=57818c&labelColor=white&color=57818c)](https://www.electronjs.org/)
