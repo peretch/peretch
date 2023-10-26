@@ -55,12 +55,10 @@
 - [An Introduction to Microservices](https://medium.com/nowports-tech/an-introduction-to-microservices-3e7fffdc5578)
 
 
-### Stats 🏃
+### Social Media
 
-#### stackoverflow
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9301236&theme=dark)](https://stackoverflow.com/users/9301236/sebasti%c3%a1n-p%c3%a9rez)
+[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin&logoColor=0A66C2&labelColor=white&color=0A66C2)](https://www.linkedin.com/in/peretch)
+[![Medium](https://img.shields.io/static/v1?label=&message=Medium&logo=medium&logoColor=000000&labelColor=white&color=000000)](https://medium.com/@peretch)
+[![StackOverflow](https://img.shields.io/static/v1?label=&message="StackOverflow"&logo=stackoverflow&logoColor=F58025&labelColor=white&color=F58025)](https://stackoverflow.com/users/9301236/sebasti%c3%a1n-p%c3%a9rez)
+[![Instagram](https://img.shields.io/static/v1?label=&message="Instagram"&logo=instagram&logoColor=E4405F&labelColor=white&color=E4405F)](https://www.instagram.com/sebaperetch)
 
-#### Github
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peretch&count_private=true&show_icons=true&theme=dark)](https://laravel.com)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=peretch&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
