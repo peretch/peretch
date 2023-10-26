@@ -22,6 +22,8 @@
 [![Electron](https://img.shields.io/static/v1?label=&message=Electron&logo=electron&logoColor=57818c&labelColor=white&color=57818c)](https://www.electronjs.org/)
 [![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&logo=Next.js&logoColor=black&labelColor=white&color=black)](https://nextjs.org/)
 [![StoryBook](https://img.shields.io/static/v1?label=&message=StoryBook&logo=storybook&iconColor=pink&labelColor=white&color=ff69b4)](https://storybook.js.org/)
+[![Docker](https://img.shields.io/static/v1?label=&message=Docker&logo=docker&logoColor=blue&labelColor=white&color=blue)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&logo=kubernetes&logoColor=d82150&labelColor=white&color=d82150)](https://kubernetes.io/)
 
 #### Testing
 [![Jest](https://img.shields.io/static/v1?label=&message=Jest&logo=jest&logoColor=C21325&labelColor=white&color=C21325)](https://jestjs.io/)
@@ -34,6 +36,8 @@
 [![Postgres](https://img.shields.io/static/v1?label=&message=Postgres&logo=PostgreSQL&logoColor=336791&labelColor=white&color=336791)](https://www.postgresql.org/)
 
 #### Infrastructure
+[![AWS](https://img.shields.io/static/v1?label=&message=AWS&logo=amazonaws&logoColor=232F3E&labelColor=white&color=232F3E)](https://aws.amazon.com/)
+[![Serverless](https://img.shields.io/static/v1?label=&message=Serverless&logo=serverless&logoColor=FD5750&labelColor=white&color=FD5750)](https://www.serverless.com/)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&logo=docker&logoColor=blue&labelColor=white&color=blue)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&logo=kubernetes&logoColor=d82150&labelColor=white&color=d82150)](https://kubernetes.io/)
 
