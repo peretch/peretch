@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  **I’m currently working on** [_Nowports_](https://nowports.com)
+- 🔭  **I’m currently working on** <some secret project>
 - 📖  **I have a blog too!**, you can find me on medium [@peretch](http://blog.peretch.com/)
 - 🌱  **I’m currently learning** 
   - 📙  -> [Designing data-intensive applications (By Martin Kleppmann)](https://www.amazon.com/-/es/Martin-Kleppmann/dp/1449373321)
@@ -41,6 +41,13 @@
 [![Serverless](https://img.shields.io/static/v1?label=&message=Serverless&logo=serverless&logoColor=FD5750&labelColor=white&color=FD5750)](https://www.serverless.com/)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&logo=docker&logoColor=blue&labelColor=white&color=blue)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&logo=kubernetes&logoColor=d82150&labelColor=white&color=d82150)](https://kubernetes.io/)
+
+### My professional career
+
+- [_Brinta_](https://www.brinta.com/), Sr Software Designer-developer-devop operator-etc [Crazy Startup rhythm 😄] (2023 and counting...🚀)
+- [_Nowports_](https://nowports.com), Sr Software Developer / Architect Team Developer   (2020 - 2023)
+- [_Commit Studio_](https://commit.studio), Ssr Software Developer (2019 - 2020)
+- [_Plan Ceibal_](https://ceibal.edu.uy/), Jr Software Developer (2016 - 2019)
 
 ### Articles 📖
 - [Multi-Tenant implementation with Laravel 8](https://blog.peretch.com/multi-tenant-implementation-with-laravel-8-5d4471ed4c40)
