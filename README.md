@@ -34,6 +34,7 @@
 [![MySql](https://img.shields.io/static/v1?label=&message=MySql&logo=mysql&logoColor=darkblue&labelColor=white&color=darkblue)](https://mysql.com/)
 [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&logo=mongodb&logoColor=green&labelColor=white&color=green)](https://mongodb.com/)
 [![Postgres](https://img.shields.io/static/v1?label=&message=Postgres&logo=PostgreSQL&logoColor=336791&labelColor=white&color=336791)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/static/v1?label=&message=Redis&logo=redis&logoColor=DC382D&labelColor=white&color=DC382D)](https://www.postgresql.org/)
 
 #### Infrastructure
 [![AWS](https://img.shields.io/static/v1?label=&message=AWS&logo=amazonaws&logoColor=232F3E&labelColor=white&color=232F3E)](https://aws.amazon.com/)
