@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🔭  **I’m currently working on** <some secret project>
+- 🔭  **I’m currently working on** [Brinta](http://brinta.com/)
 - 📖  **I have a blog too!**, you can find me on medium [@peretch](http://blog.peretch.com/)
 - 🌱  **I’m currently learning** 
   - 📙  -> [Designing data-intensive applications (By Martin Kleppmann)](https://www.amazon.com/-/es/Martin-Kleppmann/dp/1449373321)
   - 📗  -> [Building Microservices: Designing Fine-Grained Systems (By Sam Newman)](https://www.amazon.com/-/es/Sam-Newman/dp/1491950358)
-  - ⏯️  -> [Udemy - Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-  - ⏯️  -> [Udemy - NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide)
+  - 🔬  -> Microservices, Redis, Advanced System Design, Chatbots
 - 📫  **How to reach me:** sebastian@peretch.com
 - 🤪  **Random** In 2014 I created [Space Runner](https://play.google.com/store/apps/details?id=com.SebastianPerezEtchandy.games.SpaceRunner&hl=es_UY) a game made with Unity for android devices
 
